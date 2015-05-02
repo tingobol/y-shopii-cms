@@ -1,0 +1,1 @@
+Here two newbies in PHP will try to create their own e-commerce CMS based on Yii Framework.
